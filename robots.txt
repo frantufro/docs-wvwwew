@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-j7wojo.toprtpaw88.com/sitemap.xml
